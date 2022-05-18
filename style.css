@@ -5,7 +5,7 @@
   color: rgb(145, 56, 64);
   font-size: 30px;
   line-height: 5px ;
-  font-weight: bold;
+  font-weight: 50xp;
 }
 
   .img-circle {
@@ -13,12 +13,17 @@
   border-radius: 5%;
 }
 
-p {
+.firstp {
   font-family: 'Hind', sans-serif;
   background-color: rgba(red, green, blue, alpha) ;
   color: rgb(115, 97, 103);
   font-size: 27px;
   line-height: 5px ;
+}
+
+.secondp{
+  color: rgb(115, 97, 103);
+  font-size: 25px;
 }
 
 icone:hover {
@@ -33,7 +38,7 @@ icone:hover {
 .followme {
   font-weight: 500;
   font-family: 'Hind', sans-serif;
-  color: rgb(211, 45, 45)
+  color: rgb(224, 93, 93)
   text-align: center;
 }
 
@@ -42,12 +47,12 @@ icone:hover {
   padding: 40px;
   box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
   border-radius: 4px;
-  margin: 20px 0px;
+  margin: 10px 0px;
   text-align: center;
 }
 
 .btn {
-  background-color: #381431;
+  background-color: #552a4c;
   color: white;
   padding: 10px 10px;
   border-radius: 4px;
@@ -59,6 +64,11 @@ icone:hover {
   align-items: center;
   justify-content: center;
   display: flex;
+}
+
+.socialnet i {
+  color: rgb(58, 32, 58);
+  font-size: 30px;
 }
 
 ul {
